@@ -1,0 +1,20 @@
+{
+  "name": "event-pulse",
+  "version": "1.0.0",
+  "description": "Event registration and attendee scheduling web portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "events",
+    "tickets",
+    "scheduling",
+    "attendees"
+  ],
+  "author": "Jordan Lee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
